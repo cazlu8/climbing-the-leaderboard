@@ -3,7 +3,7 @@
   "author": "Lucas Reichert Siqueira",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "climbing-the-leaderboard.js",
   "scripts": {
     "start": "node climbing-the-leaderboard"
   },
